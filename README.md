@@ -1,6 +1,5 @@
 # Magnetic data filtering - CPRM-NFIS
-###### Magnetic data processing applied for groundwater management in fractured aquifers.
-___
+##### Magnetic data processing applied for groundwater management in fractured aquifers.
 ###### Project: Supporting Sustainable Groundwater Supply Management in Brazil / Projeto: Apoiando o Abastecimento Sustentável de Água Subterrânea no Brasil (PIN2020141000001). This work is part of a internship report (Nov/2021).
 
 Fellow program: Newton International Fellowship Scheme (NFIS), Cooperação Fundo Newton - Confap).
