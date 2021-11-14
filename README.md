@@ -9,6 +9,6 @@ Magnetic data is one of the most common geophysical tools for geological mapping
 ### Objective 
 Generating geohysical data for aplication in hidrological studies, due to further multidiciplinary groundwater flow modeling.
 
-## Data source
+### Data source
 Updated in 14/11/2021 - Magnetic data grids were created from the Paraná-Santa Catarina Aerogeophysical Project, from the Geological Survey of Brazil - CPRM (report: https://rigeo.cprm.gov.br/handle/doc/11241, source data: https://geosgb.cprm.gov.br/geosgb/downloads.html, summarized info: http://www.cprm.gov.br/aero/1000/CG109500.HTM).
 The data was interpolated via Oasis Montaj (https://www.seequent.com/products-solutions/geosoft-oasis-montaj/). 
