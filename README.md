@@ -12,6 +12,10 @@ Generating geohysical data for aplication in hidrological studies, due to furthe
 Updated in 14/11/2021 - Magnetic data grids were created from the Paraná-Santa Catarina Aerogeophysical Project, Geological Survey of Brazil - CPRM (report: https://rigeo.cprm.gov.br/handle/doc/11241, source data: https://geosgb.cprm.gov.br/geosgb/downloads.html, summarized info: http://www.cprm.gov.br/aero/1000/CG109500.HTM).
 The sample data was interpolated via Oasis Montaj software (https://www.seequent.com/products-solutions/geosoft-oasis-montaj/). 
 
+### How to run Jupyter Notebook?
+Click on the choosed Jupyter notebook (.ipynb file). You must save the .ipynb file by right click on the "Raw" button.
+For running the notebook, you may access this file on your local Jupyter, or even run it online. If you want to run notebooks online, you can run it on https://jupyter.org/try by entering on the "Try JupyterLab" section. In this section, you must upload the .ipynb file and then run it.
+
 # 
 #### References
 Cavalcante, F. L., Mendonça, C. A., Ofterdinger, U. S., & de Souza Filho, O. A. (2020). Well productivity in the Ponta Grossa dike Swarm, Brazil: An integrated study with magnetic data inversion and clustering analysis of model solutions. Journal of Hydrology, 588, 125079. https://doi.org/10.1016/j.jhydrol.2020.125079
